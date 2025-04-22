@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Programador Back-End<br>Cibersegurança</p>
+<p align="left">Programador Back-End / Front-End<br>Cibersegurança</p>
 
 ###
 
